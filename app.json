@@ -1,0 +1,8 @@
+{
+  "name": "demo-device-seller",
+  "buildpacks": [
+    {
+      "url": "heroku/java"
+    }
+  ]
+}
